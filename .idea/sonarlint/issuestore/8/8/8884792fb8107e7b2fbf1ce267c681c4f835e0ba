@@ -1,0 +1,20 @@
+
+7
+java:S1220""Move this file to a named package.8˜½¬¡¨.
+x
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "doc".(ÙœâÀ8ü«ì£¨.
+a
+java:S1128"DRemove this unused import 'org.apache.thrift.protocol.TMessageType'.(ß…Óã8Ò•é£¨.
+e
+java:S2095 "HUse try-with-resources or close this "Connection" in a "finally" clause.(“…§Ú8¬ÊÅ¢¨.
+p
+java:S1104"SMake message a static final constant or non-public and provide accessors if needed.(ŸÅà¸8Ò•é£¨.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(æĞ8„ˆ¾¢¨.
+V
+java:S4719)"9Replace charset name argument with StandardCharsets.UTF_8(¢òâÂ8¬ÊÅ¢¨.
+]	java:S125+"<This block of commented-out lines of code should be removed.(İ–Åùşÿÿÿÿ8ÿ†ï£¨.
+J
+java:S1444"-Make this "public static message" field final(ŸÅà¸8Ò•é£¨.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›æŒÁ8Ááæ£¨.
+g
+java:S2095!"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ8¬ÊÅ¢¨.
